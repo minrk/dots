@@ -7,7 +7,7 @@ but you still want some measure of its progress.
 
 Install:
 
-Grab a binary from the [releases](releases) page, or build it yourself:
+Grab a binary from the [releases](https://github.com/minrk/dots/releases) page, or build it yourself:
 
     go install github.com/minrk/dots
 
