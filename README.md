@@ -3,16 +3,16 @@
 Turn lines into dots.
 
 Sometimes a command produces a lot of output that you don't care about,
-but you still want some measure of its progress.
+but you still want some vague indication of its progress.
 
 Install:
 
 Grab a binary from the [releases](https://github.com/minrk/dots/releases) page, or build it yourself:
 
-    go install github.com/minrk/dots
+    make && make install
 
-Usage:
+Use:
 
     program-that-makes-a-lot-of-lines | dots
 
-I wrote this in Go because I've never written anything in Go before.
+I wrote this in Go because I've never written anything in Go before, and interpreter startup time has been bugging me recently. It even seems like it works!
