@@ -5,6 +5,8 @@ Turn lines into dots.
 Sometimes a command produces a lot of output that you don't care about,
 but you still want some vague indication of its progress.
 
+![demo](demo.gif)
+
 ### Install
 
 Grab a binary from the [releases](https://github.com/minrk/dots/releases) page, or build it yourself:
